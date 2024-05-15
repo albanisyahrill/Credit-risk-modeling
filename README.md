@@ -24,7 +24,6 @@ The project utilizes a publicly available dataset from [loan_data_2007_2014]([li
 - Scikit-learn
 - Seaborn
 - Shutil
-- Imblearn
 
 ## Usage
 1. Clone the repository:
